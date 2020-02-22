@@ -1,6 +1,6 @@
 # loginfrosty
 
-A new Flutter project.
+Apenas testes com tela de login e ios.
 
 ## Getting Started
 
